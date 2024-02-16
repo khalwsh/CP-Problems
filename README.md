@@ -1,2 +1,2 @@
 # CP-Problems
-collections of problems i solved 
+collections for some problems that i solved 
